@@ -1,24 +1,4 @@
-# README
+Micro-Reddit:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+An application with the functionality to make users, posts under users, and comments associated with users and posts. The project is solely made on models in order to improve my understanding on how rails Active Record functionality works
+For more information on the project: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails
